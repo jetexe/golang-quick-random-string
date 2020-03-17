@@ -1,1 +1,3 @@
-module github.com/jetexe/go-quick-random-string
+module github.com/jetexe/quickRandomString
+
+go 1.14

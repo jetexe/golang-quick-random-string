@@ -1,4 +1,4 @@
-package go_quick_random_string
+package quickRandomString
 
 import (
 	"math/rand"
